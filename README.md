@@ -1,3 +1,1 @@
 # mini-shopping
-
-git test
